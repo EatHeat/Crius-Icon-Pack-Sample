@@ -1,4 +1,4 @@
-﻿Sample Weather Icons Set for the Chronus and cLock Widgets
+﻿Sample Weather Icons Set for Crius, Chronus and cLock Widgets
 ==========================================================
 
 1) Replace the images in this set with your own images using the Yahoo Weather Code Mapping below
